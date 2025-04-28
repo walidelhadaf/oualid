@@ -25,7 +25,7 @@ const database = {
     brandImage: "/images/me.jpeg",
     aboutImage: "/images/me.jpeg",
     aboutImageLg: "/images/me.jpeg",
-    cvfile: "/files/CV Oualid El Hadaf.pdf",
+    cvfile: "/files/oualid el hadaf cv p.pdf",
   },
   services: [
     {
@@ -214,7 +214,7 @@ url: "",
       {
         id: 1,
         year: "2023 - 2024",
-        position: "Back-end  Web Developer",
+        position: "Full-Stack Developer and Expertise Cyber ​​Security Cloud System",
         company: "Octicode",
         details:
         `
@@ -233,7 +233,7 @@ url: "",
       {
         id: 2,
         year: "2022 - 2023",
-        position: "Développeur Full-Stack",
+        position: "Full-Stack Developer",
         company: "Agridata Consulting",
         details: `
         - Full-stack web application development.
