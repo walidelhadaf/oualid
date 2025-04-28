@@ -39,7 +39,7 @@ function Contact() {
       // Envoi du mail avec EmailJS
       emailjs
         .send(
-          "service_fxbymua",  // Remplacez par votre service ID EmailJS
+          "service_mobpq4k",  // Remplacez par votre service ID EmailJS
           "template_r5kvplj", // Remplacez par votre template ID EmailJS
           {
             from_name: formdata.name,
