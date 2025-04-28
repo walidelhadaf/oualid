@@ -213,7 +213,7 @@ url: "",
     workingExperience: [
       {
         id: 1,
-        year: "2023 - 2024",
+        year: "janv. 2024 - juil. 2024 ",
         position: "Full-Stack Developer and Expertise Cyber ​​Security Cloud System",
         company: "Octicode",
         details:
@@ -232,7 +232,7 @@ url: "",
       ` },
       {
         id: 2,
-        year: "2022 - 2023",
+        year: "févr. 2023 - août 2023 ",
         position: "Full-Stack Developer",
         company: "Agridata Consulting",
         details: `
